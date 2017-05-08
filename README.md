@@ -1,2 +1,2 @@
 # Awesome-Crocodile
-The best corcodile the awesome crocodile
+The best corecodile the awesome crocodile
